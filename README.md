@@ -4,4 +4,4 @@ This project was taken up as a part of my Bachelors Thesis. A paper has been pub
 
 https://manipal.pure.elsevier.com/en/publications/inverse-conduction-method-using-finite-difference-method
 
-All details can be found in the report
+All details can be found in the report. Code was written in Fortran F90.
